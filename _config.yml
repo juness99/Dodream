@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dodream"
+title                    : "dodoDodream"
 title_separator          : "-"
 name                     : "Your Name"
-description              : "Dodream."
+description              : "Dodream dream"
 url                      : "https://juness99.github.io"
 baseurl                  : "/Dodream"
 #repository               : "mmistakes/minimal-mistakes"
